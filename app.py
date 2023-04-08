@@ -26,7 +26,7 @@ JOBS=[
     'id':4,
     'title':'Software Developer',
     'location':'Chennai',
-    'salary':'Rs.30,00,000'
+    'salary':'Rs.35,00,000'
   }
 ]
 
